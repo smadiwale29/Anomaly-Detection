@@ -1,4 +1,4 @@
-#Anomaly Detection using DBSCAN
+Anomaly Detection using DBSCAN
 
 This repository contains code for performing anomaly detection using the DBSCAN clustering algorithm on synthetic data generated from the make_moons dataset.
 
